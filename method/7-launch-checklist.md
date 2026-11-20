@@ -36,4 +36,6 @@ The checklist covers this too, but the essentials for day one:
 
 Look at you. You researched your market, mined real reviews, built a brand and design system, created your core pages, backed it all up and launched it, for about $32.
 
+If this kit saved you time or money, you can thank Jef with a tip or by becoming a patron: https://jefvandegraaf.com/patron/ (tips from $3). It keeps these free tools going.
+
 If you'd rather someone handled the next site (or the expansion pages), Jef does this for clients: https://jefvandegraaf.com/contact/

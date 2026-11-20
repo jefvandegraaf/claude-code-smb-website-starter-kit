@@ -2,6 +2,8 @@
 
 > **Beta.** This kit is new and hasn't been run end to end by other business owners yet. It's based on the method I use to build my clients' websites. If a step confuses you or Claude goes off track, please [open an issue](https://github.com/jefvandegraaf/claude-code-smb-website-starter-kit/issues).
 
+**Free to use.** If it helps you, [support the project on my Patron page](https://jefvandegraaf.com/patron/).
+
 Build your own small business website with Claude Code in a weekend, for about **$32**: $20 for a month of Claude Pro and around $12 for a domain. Hosting is free.
 
 This kit turns the 7-step method from **[How to Build a Small Business Website with Claude in 7 Steps](https://jefvandegraaf.com/build-small-business-website-with-claude/)** into a guided build. Open it in Claude Code, and Claude interviews you, researches your competitors, writes from your real words, builds the pages and walks you through launching.
@@ -75,6 +77,14 @@ Claude is told to:
 ## After launch
 
 Run the free **[AI-Built Website Checklist](https://github.com/jefvandegraaf/ai-built-website-checklist)**. It tests your live site and your files for the things AI-built sites get wrong: default favicons, mobile wobble, placeholder text, exposed files, preview links in Google, missing schema, broken forms.
+
+## Found this helpful?
+
+This is free, and it stays free. If it saved you time, money or a developer's invoice, please [leave a tip or become a patron](https://jefvandegraaf.com/patron/): one-off tips start at $3, and monthly support starts at $5. It keeps these tools maintained and updated.
+
+Don't let Jef starve.
+
+[**Support Jef on the Patron page →**](https://jefvandegraaf.com/patron/)
 
 ## Rather have it done for you?
 
