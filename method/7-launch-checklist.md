@@ -24,6 +24,13 @@ The checklist covers this too, but the essentials for day one:
 - Verify the site in **Google Search Console** (with Cloudflare DNS it's a quick DNS record) and submit `sitemap.xml`.
 - Do the same in **Bing Webmaster Tools** (you can import from Google Search Console). Bing's index also powers ChatGPT search and Copilot.
 - Make sure your **Google Business Profile** lists the website, with the name, address and phone written exactly as on the site.
+- Set up **IndexNow** with the checklist repo's `scripts/indexnow.mjs`, so Bing (and ChatGPT search, Copilot and DuckDuckGo) hear about new pages within minutes.
+
+## Every time you add a page later
+
+1. Ping IndexNow: `node scripts/indexnow.mjs submit --site https://yourdomain.com --urls https://yourdomain.com/new-page/`
+2. **Request indexing in Google**, because Google doesn't use IndexNow: Search Console → URL Inspection → paste the URL → Request indexing. It takes 30 seconds, and it's the step most people skip.
+3. Link to the new page from 2 or 3 existing pages.
 
 ## You're done
 
