@@ -1,5 +1,7 @@
 # Claude Code Small Business Website Starter Kit
 
+> **Beta.** This kit is new and hasn't been run end to end by other business owners yet. It's based on the method I use to build my clients' websites. If a step confuses you or Claude goes off track, please [open an issue](https://github.com/jefvandegraaf/claude-code-smb-website-starter-kit/issues).
+
 Build your own small business website with Claude Code in a weekend, for about **$32**: $20 for a month of Claude Pro and around $12 for a domain. Hosting is free.
 
 This kit turns the 7-step method from **[How to Build a Small Business Website with Claude in 7 Steps](https://jefvandegraaf.com/build-small-business-website-with-claude/)** into a guided build. Open it in Claude Code, and Claude interviews you, researches your competitors, writes from your real words, builds the pages and walks you through launching.
