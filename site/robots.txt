@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+# Cloudflare rewrites on-page email addresses into /cdn-cgi/ links; crawlers report them as broken.
+Disallow: /cdn-cgi/
+
+Sitemap: https://[NEEDS: domain]/sitemap.xml

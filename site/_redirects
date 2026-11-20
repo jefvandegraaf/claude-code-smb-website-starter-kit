@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects. One rule per line: /old-path/ /new-path/ 301
+# If you're replacing an old website, map every old URL to its new page here before launch.

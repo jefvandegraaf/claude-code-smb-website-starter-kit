@@ -1,0 +1,10 @@
+/* One stylesheet for the whole site. Claude fills this in during Step 3.
+   Design tokens from workspace/design-tokens.md go in :root first. */
+:root {
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; overflow-wrap: break-word; }
+img, svg, video, iframe { max-width: 100%; height: auto; }
+input, select, textarea { font-size: 16px; }
